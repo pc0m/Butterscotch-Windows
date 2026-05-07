@@ -4,7 +4,9 @@
 
 
 This version also contains small optimizations and a full built in executor for running GameMaker code live without having to edit the data.win file.
-The executor is still in beta and will be converted to ImGUI when complete.
+
+
+<h4 align="center"> The executor is still in beta and will be converted to ImGUI when complete. </h4>
 
 <!-- Badges, about the GitHub repository itself -->
 <p align="center">
