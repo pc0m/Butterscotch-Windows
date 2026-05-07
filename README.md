@@ -1,8 +1,10 @@
 <h1 align="center">🥧 Butterscotch 🥧</h1>
 
 > This is a modified version of Butterscotch made specifically for Windows, with WINDOWS specific features.
-> This version also contains small optimizations and a full built in executor for running GameMaker code live without having to edit the data.win file
-> The executor is still in beta and will be converted to ImGUI when complete.
+
+
+This version also contains small optimizations and a full built in executor for running GameMaker code live without having to edit the data.win file.
+The executor is still in beta and will be converted to ImGUI when complete.
 
 <!-- Badges, about the GitHub repository itself -->
 <p align="center">
